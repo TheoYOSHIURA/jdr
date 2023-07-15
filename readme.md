@@ -1,6 +1,5 @@
 * JDR
   * README.md
-  * Combat
   * Créatures
     * Agressives
     * Passifiques
@@ -26,6 +25,7 @@
     * [Stèle de Rosette](objets/stele_de_Rosette.md)
   * Personnages
     * Joueurs
+      * [Base](Personnages/joueurs/base.md)
     * NPCs fillers
     * NPCs importants
   * Plantes
@@ -34,3 +34,5 @@
     * Résumés
   * Structures Mouvantes
     * Cathédrale Jibril
+  * Systèmes
+    * [Combat](systemes/combat.md)
